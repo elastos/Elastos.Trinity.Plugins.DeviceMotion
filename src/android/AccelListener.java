@@ -18,6 +18,7 @@
 */
 package org.apache.cordova.devicemotion;
 
+import org.elastos.trinity.dapprt.TrinityPlugin;
 import java.util.List;
 
 import org.apache.cordova.CordovaWebView;
@@ -42,7 +43,7 @@ import android.os.Looper;
  * This class listens to the accelerometer sensor and stores the latest
  * acceleration values x,y,z.
  */
-public class AccelListener extends CordovaPlugin implements SensorEventListener {
+public class AccelListener extends TrinityPlugin implements SensorEventListener {
 
     public static int STOPPED = 0;
     public static int STARTING = 1;
