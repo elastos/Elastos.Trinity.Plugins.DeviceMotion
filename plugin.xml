@@ -19,15 +19,13 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="cordova-plugin-device-motion"
+           id="elastos-trinity-plugins-device-motion"
       version="2.0.2-dev">
 
     <name>Device Motion</name>
     <description>[DEPRECATED] Cordova Device Motion Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,device,motion</keywords>
-    <repo>https://git-wip-us.apache.org/repos/asf/cordova-plugin-device-motion.git</repo>
-    <issue>https://issues.apache.org/jira/browse/CB/component/12320636</issue>
 
     <js-module src="www/Acceleration.js" name="Acceleration">
         <clobbers target="Acceleration" />
