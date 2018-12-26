@@ -4,7 +4,7 @@
   "description": "[DEPRECATED] Cordova Device Motion Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-device-motion",
+    "id": "elastos-trinity-plugins-device-motion",
     "platforms": [
       "firefoxos",
       "android",
