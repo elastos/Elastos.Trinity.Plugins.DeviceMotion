@@ -19,8 +19,9 @@
 
 #import <UIKit/UIKit.h>
 #import <Cordova/CDVPlugin.h>
+#import "TrinityPlugin.h"
 
-@interface CDVAccelerometer : CDVPlugin
+@interface CDVAccelerometer : TrinityPlugin
 {
     double x;
     double y;
