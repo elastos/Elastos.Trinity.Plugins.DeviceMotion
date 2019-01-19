@@ -23,9 +23,9 @@ description: Access accelerometer data.
 
 |AppVeyor|Travis CI|
 |:-:|:-:|
-|[![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-plugin-device-motion?branch=master)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-plugin-device-motion)|[![Build Status](https://travis-ci.org/apache/cordova-plugin-device-motion.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-device-motion)|
+|[![Build status](https://ci.appveyor.com/api/projects/status/github/apache/elastos-trinity-plugins-device-motion?branch=master)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/elastos-trinity-plugins-device-motion)|[![Build Status](https://travis-ci.org/apache/elastos-trinity-plugins-device-motion.svg?branch=master)](https://travis-ci.org/apache/elastos-trinity-plugins-device-motion)|
 
-# cordova-plugin-device-motion
+# elastos-trinity-plugins-device-motion
 
 ----
 
