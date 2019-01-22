@@ -28,7 +28,11 @@ description: Access accelerometer data.
 # elastos-trinity-plugins-device-motion
 
 ----
+## Installation
 
+    cordova plugin add https://github.com/elastos/Elastos.Trinity.Plugins.DeviceMotion
+
+    The plugins field of dapp manifest.json adds DeviceMotion values, such as "plugins": ["XXXX", "DeviceMotion", "XXXX"]
 
 ## Description
 
