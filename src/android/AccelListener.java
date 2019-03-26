@@ -18,7 +18,7 @@
 */
 package org.apache.cordova.devicemotion;
 
-import org.elastos.trinity.dapprt.TrinityPlugin;
+import org.elastos.trinity.runtime.TrinityPlugin;
 import java.util.List;
 
 import org.apache.cordova.CordovaWebView;
