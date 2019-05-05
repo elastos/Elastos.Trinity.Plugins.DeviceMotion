@@ -21,18 +21,12 @@ description: Access accelerometer data.
 #         under the License.
 -->
 
-|AppVeyor|Travis CI|
-|:-:|:-:|
-|[![Build status](https://ci.appveyor.com/api/projects/status/github/apache/elastos-trinity-plugins-device-motion?branch=master)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/elastos-trinity-plugins-device-motion)|[![Build Status](https://travis-ci.org/apache/elastos-trinity-plugins-device-motion.svg?branch=master)](https://travis-ci.org/apache/elastos-trinity-plugins-device-motion)|
-
 # elastos-trinity-plugins-device-motion
 
 ----
 ## Installation
 
-    cordova plugin add https://github.com/elastos/Elastos.Trinity.Plugins.DeviceMotion
-
-    The plugins field of dapp manifest.json adds DeviceMotion values, such as "plugins": ["XXXX", "DeviceMotion", "XXXX"]
+    The plugins field of dapp manifest.json adds Accelerometer values, such as "plugins": ["XXXX", "Accelerometer", "XXXX"]
 
 ## Description
 
